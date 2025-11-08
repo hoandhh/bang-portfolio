@@ -63,7 +63,7 @@ function App() {
           </p>
           <div className="hero-stats">
             <div className="stat-item">
-              <span className="stat-number">2500+</span>
+              <span className="stat-number">2600+</span>
               <span className="stat-label">Followers</span>
             </div>
             <div className="stat-item">
@@ -127,7 +127,7 @@ function App() {
               </p>
               
               <p>
-                Với <strong>2500+ followers</strong> trên kênh SoundCloud với tổng
+                Với <strong>2600+ followers</strong> trên kênh SoundCloud với tổng
                 <strong> 300.000+ lượt stream</strong>. Mình tự hào về những
                 thành tựu âm nhạc và sự ủng hộ từ cộng đồng.
               </p>
