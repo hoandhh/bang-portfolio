@@ -142,7 +142,7 @@ function App() {
                 <div className="achievement-card">
                   <h3>Các sự kiện góp mặt tiêu biểu</h3>
                   <p>CHÀO TÂN SINH VIÊN HUS, NCE</p>
-                  <p>EDMUNIVERSE 2: NOXX CITI (TOP 91 CLUB MAG)</p>
+                  <p>EDMUNIVERSE 2: NOXX CITI (TOP 85 CLUB MAG)</p>
                   <p>RAVE PLANNET: THE LAVISH HANOI</p>
                   <p>COMPLEX FEST: CRAFT & PRINT UNION</p>
                   <p>REUNION PARTY - NHẠC XANH</p>
